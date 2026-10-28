@@ -1,5 +1,5 @@
 
-![Subhash Boina — Software Developer](./profile-header.svg)
+![Subash — Software Developer](./subash-header-animation.gif)
 
 I'm Subhash — an MCA student at GITAM University in Visakhapatnam. Most of my time goes into Python and web development: writing code, reading docs, and building things that actually work. Curious by default, developer by practice.
 
