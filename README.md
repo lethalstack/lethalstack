@@ -29,7 +29,7 @@ A full-stack messaging application focused on private conversations and real-tim
 
 `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `WebSockets`
 
-[→ Live ↗](https://nomizen.vercel.app)
+[Live ↗](https://nomizen.vercel.app)
 
 ---
 
@@ -40,7 +40,7 @@ An AI-powered learning application built around contextual conversations, stream
 
 `React` `JavaScript` `Flask` `Turso` `Groq API` `OpenRouter`
 
-[→ Live ↗](https://yozen.vercel.app)
+[Live ↗](https://yozen.vercel.app)
 
 ---
 
@@ -85,4 +85,7 @@ Exploring how natural language can become a practical way to interact with a com
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/subhash-b-082565289/) · [Email](mailto:subhashsubbu8374@gmail.com)
+[Portfolio ↗](https://subashboina.vercel.app) &nbsp;·&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) &nbsp;·&nbsp; [Email ↗](mailto:subhashsubbu8374@gmail.com)
+
+<sub>Designed with curiosity. Built with purpose.</sub>
+
