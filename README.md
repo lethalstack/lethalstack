@@ -1,225 +1,200 @@
 <!-- ===================== HEADER ===================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Subhash%20B.&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Application%20Builder%20%7C%20Software%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:334155,100:475569&height=230&section=header&text=Subhash%20Boina&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=58&descSize=17" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%7C+Building+Web+Applications;React+%7C+TypeScript+%7C+JavaScript;Python+%7C+FastAPI+%7C+Flask;AI-Powered+Applications+%7C+LLM+Integration;Building+Products+That+Solve+Real+Problems;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=850&lines=Building+thoughtful+software+experiences;Full+Stack+Development+%7C+AI+Applications;React+%7C+TypeScript+%7C+Python;Turning+ideas+into+working+products;Always+learning.+Always+building." alt="Introduction" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MCA-Computer%20Applications-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="MCA" />
-  <img src="https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location India" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/subhash-b-082565289/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:subhashsubbu8374@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/lethalstack">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/fatalnull/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+  <a href="https://subashboina.vercel.app">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/subhash-b-082565289/">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:subhashsubbu8374@gmail.com">Email</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/lethalstack">GitHub</a>
 </p>
 
 <br>
 
 ---
 
-## 🧬 About Me
+## About Me
 
-```yaml
-name: "Subhash B."
-role: "Full Stack Developer | Software Developer | AI Application Builder"
+I'm Subhash, a software developer interested in building useful products through thoughtful engineering, modern web technologies, and AI.
 
-education:
-  degree: "Master of Computer Applications"
-  institute: "GITAM University"
+Currently pursuing my **Master of Computer Applications at GITAM University**, I enjoy working across the frontend and backend, exploring new technologies, and turning ideas into functional applications.
 
-focus:
-  - Full Stack Development
-  - Frontend Development
-  - Backend Development
-  - AI-Powered Applications
-  - Large Language Model Integration
-  - Real-Time Applications
-  - REST API Development
-  - Desktop Application Development
+**Areas of Interest**
 
-currently_learning:
-  - Advanced Full Stack Development
-  - AI Application Development
-  - Rust
-  - Tauri
-  - Software Architecture
-  - Data Structures and Algorithms
+- Full Stack Development
+- Frontend & Backend Engineering
+- AI-Powered Applications
+- Real-Time Systems
+- Desktop Application Development
+- Software Architecture
 
-philosophy:
-  "Build practical software that solves real-world problems."
+**Currently Exploring**
 
-open_to:
-  - Software Developer roles
-  - Full Stack Developer roles
-  - Frontend Developer roles
-  - Backend Developer roles
-  - AI Application Development opportunities
-  - Open Source Collaboration
-```
+- Advanced Full Stack Development
+- AI Application Development
+- Rust & Tauri
+- Large Language Model Integration
+- Data Structures and Algorithms
+
+**My Philosophy**
+
+> Build practical software. Solve meaningful problems. Keep improving.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-4C1D95?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-5B21B6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-7C3AED?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-202124?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-202124?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Python-202124?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Rust-202124?style=for-the-badge&logo=rust&logoColor=DEA584" />
+  <img src="https://img.shields.io/badge/SQL-202124?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-4C1D95?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vite-5B21B6?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-202124?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-202124?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Vite-202124?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/HTML5-202124?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-202124?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
-### 🛠️ Backend & Databases
+### Backend & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-4C1D95?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-5B21B6?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Turso-6D28D9?style=for-the-badge&logo=turso&logoColor=white" alt="Turso" />
-  <img src="https://img.shields.io/badge/WebSockets-4C1D95?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/FastAPI-202124?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Flask-202124?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-202124?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Turso-202124?style=for-the-badge&logo=turso&logoColor=4FF8D2" />
+  <img src="https://img.shields.io/badge/WebSockets-202124?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" />
 </p>
 
-### 🤖 AI / ML
+### AI & Application Development
 
 <p>
-  <img src="https://img.shields.io/badge/Generative_AI-5B21B6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/LLM_Integration-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration" />
-  <img src="https://img.shields.io/badge/AI_Applications-6D28D9?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI Applications" />
+  <img src="https://img.shields.io/badge/Generative_AI-202124?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/LLM_Integration-202124?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/AI_Applications-202124?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
 </p>
 
-### ☁️ Tools & DevOps
+### Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Railway-5B21B6?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/Tauri-6D28D9?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Git-202124?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-202124?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Vercel-202124?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Railway-202124?style=for-the-badge&logo=railway&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tauri-202124?style=for-the-badge&logo=tauri&logoColor=24C8DB" />
 </p>
 
 ---
 
-## 🧠 Development Expertise
+## Development Expertise
 
-| Domain | Focus |
-| ------------------- | --------------------------------------------------------------------------------- |
-| 🎨 Frontend Development | React, TypeScript, JavaScript, Responsive Interfaces |
-| ⚙️ Backend Development | Python, FastAPI, Flask, REST API Development |
-| 🗄️ Database Management | PostgreSQL, Turso, Database Integration |
-| 🤖 AI Applications | LLM Integration, AI-Powered Applications |
-| 🔄 Real-Time Systems | WebSockets, Real-Time Messaging |
-| 🖥️ Desktop Development | Tauri, React, Rust |
-| 🚀 Deployment | Vercel, Railway, Application Deployment |
-| 🧩 Software Development | Application Architecture, Debugging, Integration |
-
----
-
-# 🚀 Featured Projects
-
-## 📦 NOMI — Real-Time Messaging Platform
-
-> A real-time messaging platform built to provide a smooth communication experience with a modern chat interface.
-
-**Tech:** JavaScript • React • Python • Flask • WebSockets • Database
-
-* Real-time messaging experience
-* Interactive chat interface
-* Full-stack application architecture
-* Backend-powered communication
-* Modern user experience
-
-<a href="https://nomizen.vercel.app">
-  <img src="https://img.shields.io/badge/Live%20Project-Visit%20Website-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="NOMI Live Project" />
-</a>
+| Area | Technologies & Focus |
+|:---|:---|
+| Frontend Engineering | React, TypeScript, JavaScript, Responsive Interfaces |
+| Backend Engineering | Python, FastAPI, Flask, REST APIs |
+| Database Systems | PostgreSQL, Turso, Database Integration |
+| AI Applications | LLM Integration, AI-Powered Applications |
+| Real-Time Systems | WebSockets, Real-Time Messaging |
+| Desktop Development | Tauri, React, Rust |
+| Deployment | Vercel, Railway |
+| Software Engineering | Architecture, Debugging, Integration |
 
 ---
 
-## 🤖 YO — AI Study Assistant
+# Featured Projects
 
-> An AI-powered study assistant designed to make learning, asking questions, and interacting with AI easier.
+## NOMI — Real-Time Messaging Platform
 
-**Tech:** React • JavaScript • Python • Flask • AI Integration
+A real-time messaging platform designed around smooth communication and a modern chat experience.
 
-* AI-powered conversations
-* Study-focused assistant experience
-* Chat-based interaction
-* Voice interaction
-* Designed to support learning and productivity
+**Technologies:** React · JavaScript · Python · Flask · WebSockets
 
-<a href="https://yozen.vercel.app">
-  <img src="https://img.shields.io/badge/Live%20Project-Visit%20Website-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="YO Live Project" />
-</a>
+- Real-time messaging experience
+- Interactive chat interface
+- Full-stack application architecture
+- Backend-powered communication
+- Modern user experience
 
----
-
-## 🎙️ LIGHT — AI Voice Assistant for macOS
-
-> A desktop AI assistant designed to bring natural voice interaction and computer assistance to macOS.
-
-**Tech:** Tauri 2 • React • TypeScript • Rust
-
-* Desktop-native assistant experience
-* Voice interaction architecture
-* Local wake-word detection planned
-* Modular computer action engine planned
-* State-driven assistant interface
-
-<sub>Currently in development.</sub>
+<p align="left">
+  <a href="https://nomizen.vercel.app">Explore NOMI ↗</a>
+</p>
 
 ---
 
-# 💼 Experience
+## YO — AI Study Assistant
 
-### 💻 Python Full Stack Intern
+An AI-powered study assistant designed to make learning, asking questions, and interacting with AI easier.
+
+**Technologies:** React · JavaScript · Python · Flask · AI Integration
+
+- AI-powered conversations
+- Study-focused assistant experience
+- Chat-based interaction
+- Voice interaction
+- Designed to support learning and productivity
+
+<p align="left">
+  <a href="https://yozen.vercel.app">Explore YO ↗</a>
+</p>
+
+---
+
+## LIGHT — AI Voice Assistant for macOS
+
+A desktop AI assistant designed to bring natural voice interaction and computer assistance to macOS.
+
+**Technologies:** Tauri 2 · React · TypeScript · Rust
+
+- Desktop-native assistant experience
+- Voice interaction architecture
+- Local wake-word detection planned
+- Modular computer action engine planned
+- State-driven assistant interface
+
+*Currently in development.*
+
+---
+
+# Experience
+
+### Python Full Stack Intern
 
 **BeeSkilled**
 
-* July 2026 – August 2026
-* Internship focused on Python full-stack development.
+July 2026 – August 2026
 
-### 📊 Data Analytics Intern
+### Data Analytics Intern
 
 **AvaIntern Edutech Pvt. Ltd.**
 
-* May 2026 – June 2026
-* Internship focused on data analytics.
+May 2026 – June 2026
 
 ---
 
-# 🎓 Education
+# Education
 
-### 🎓 Master of Computer Applications (MCA)
+### Master of Computer Applications
 
 **GITAM University**
 
 2025 – 2027
 
-### 🎓 Bachelor of Science — Computer Science
+### Bachelor of Science — Computer Science
 
 **GVPIHLR University**
 
@@ -227,97 +202,62 @@ open_to:
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lethalstack&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lethalstack&show_icons=true&theme=transparent&hide_border=true&title_color=94A3B8&icon_color=8B5CF6&text_color=94A3B8&rank_icon=github" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethalstack&layout=compact&theme=transparent&hide_border=true&title_color=94A3B8&text_color=94A3B8" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethalstack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lethalstack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=lethalstack&theme=transparent&hide_border=true&ring=8B5CF6&fire=64748B&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=64748B" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-# 👨‍💻 Coding Profiles
+# Current Focus
 
-<p align="center">
+**Learning**
 
-  <a href="https://leetcode.com/u/fatalnull/">
-    <img src="https://img.shields.io/badge/LeetCode-fatalnull-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+- Full Stack Development
+- AI Application Development
+- Large Language Model Integration
+- Rust & Tauri
+- Software Architecture
+- Data Structures and Algorithms
 
-  <a href="https://github.com/lethalstack">
-    <img src="https://img.shields.io/badge/GitHub-lethalstack-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+**Building**
 
-</p>
+- Real-Time Applications
+- AI-Powered Applications
+- Desktop AI Assistants
+- Full Stack Platforms
+- Interactive User Experiences
 
----
+**Long-Term Direction**
 
-# 🎯 Current Focus
-
-```yaml
-learning:
-  - Full Stack Development
-  - AI Application Development
-  - Large Language Model Integration
-  - Rust
-  - Tauri Desktop Development
-  - Software Architecture
-  - Data Structures and Algorithms
-
-building:
-  - Real-Time Applications
-  - AI-Powered Applications
-  - Desktop AI Assistants
-  - Full Stack Platforms
-  - Interactive User Experiences
-
-goal:
-  - Software Developer
-  - Full Stack Developer
-  - AI Application Developer
-```
+- Software Engineering
+- Full Stack Development
+- AI Application Development
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="center">
-
-<a href="mailto:subhashsubbu8374@gmail.com">
-  <img src="https://img.shields.io/badge/Email-subhashsubbu8374%40gmail.com-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/subhash-b-082565289/">
-  <img src="https://img.shields.io/badge/LinkedIn-Subhash%20B.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/lethalstack">
-  <img src="https://img.shields.io/badge/GitHub-lethalstack-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://subashboina.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="https://leetcode.com/u/fatalnull/">
-  <img src="https://img.shields.io/badge/LeetCode-fatalnull-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-
+  <a href="https://subashboina.vercel.app">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/subhash-b-082565289/">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:subhashsubbu8374@gmail.com">Email</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/lethalstack">GitHub</a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <i>"Build meaningful things. Keep learning. Never stop improving."</i>
+  <i>Building with purpose. Learning without limits.</i>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" alt="Footer" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:334155,100:475569&height=120&section=footer" alt="Footer" />
