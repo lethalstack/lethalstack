@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### SOFTWARE ENGINEERING · FULL-STACK DEVELOPMENT · AI
+### SOFTWARE ENGINEERING · FULL-STACK DEVELOPMENT
 
 **I build software beyond the interface.**
 
