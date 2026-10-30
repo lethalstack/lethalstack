@@ -1,131 +1,81 @@
 
-![Subhash — Developer](./subhash-code-header-animation.gif)
+![Developer Header](./subhash-code-header-animation.gif)
 
-# Subhash Boina
+### Aspiring Software Developer
+**Python · Full-Stack Development · AI Systems**
 
-**MCA Student · Software Development · Full-Stack Applications · AI Systems**
+I'm an MCA student at **GITAM University, Visakhapatnam**, interested in software engineering, full-stack development, and building practical AI-powered applications.
 
-I'm Subhash, an MCA student at **GITAM University, Visakhapatnam**, with a strong interest in building useful software and understanding how products work from end to end.
+I work primarily with Python and modern web technologies, developing applications across frontend interfaces, backend services, APIs, and databases. Through personal projects and internships in Python programming and full-stack web development, I've gained practical experience in application development, API integration, database management, and problem-solving.
 
-My current focus is **Python and web development**. I enjoy moving beyond isolated coding exercises to build complete applications — shaping data models, implementing backend services, connecting APIs, and creating interfaces that feel consistent and intuitive.
+I'm particularly interested in understanding how software works beyond the interface — from application architecture and data flow to real-time communication and system reliability.
 
-I value the details that make software dependable: data that persists correctly, real-time updates that behave as expected, clear user feedback, and interfaces that communicate a product's capabilities honestly.
+**Currently open to software development internships and entry-level opportunities.**
 
-I learn by building, testing, refining, and continuously improving my understanding of software engineering.
-
-**[Portfolio ↗](https://subashboina.vercel.app)**
-
----
-
-## Selected Projects
-
-### 01. NOMI — Real-Time Messaging Application
-
-NOMI is a full-stack messaging application designed around private, one-to-one conversations. It connects a modern web interface with a dedicated backend and persistent database to deliver a focused messaging experience.
-
-**Key features**
-- Private one-to-one conversations.
-- Real-time message delivery.
-- Online presence and typing indicators.
-- Read receipts.
-- Persistent conversation and message history.
-
-**Technology stack**
-
-`Next.js` `TypeScript` `FastAPI` `PostgreSQL` `SQLAlchemy`
-
-[Open Live Demo ↗](https://nomizen.vercel.app) · Account required · Source code private
+[Portfolio ↗](https://subashboina.vercel.app) · [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) · [Email ↗](mailto:subhashsubbu8374@gmail.com)
 
 ---
 
-### 02. YO — Your Own AI
+### Selected Projects
 
-YO is an AI-powered study assistant designed to help learners understand concepts through interactive conversations.
+**01. NOMI — Real-Time Messaging Application**
 
-The application focuses on making learning more engaging by combining AI-generated explanations with practical study features.
+A full-stack messaging application built to provide private, real-time communication between users. The application combines a modern web frontend with a dedicated Python backend and PostgreSQL database.
 
-**Key features**
-- AI-powered conversational learning.
-- Streamed explanations.
-- Persistent chat history.
-- Interactive quizzes.
-- Flashcards for revision.
+- User authentication and private one-to-one conversations.
+- Real-time messaging using WebSockets.
+- Online presence, typing indicators, and read receipts.
+- Persistent message history and conversation updates.
+- Responsive interface with profile and chat customization.
 
-**Technology stack**
+`Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `PostgreSQL` `SQLAlchemy` `WebSockets`
 
-`Python` `LLM API` `Streaming` `HTML` `CSS` `JavaScript`
+[Live Demo ↗](https://nomizen.vercel.app) · Account required
 
-[Open Live Demo ↗](https://yozen.vercel.app) · Source code private
+**02. YO — Your Own AI**
+
+An AI-powered study assistant designed to make learning more interactive through contextual conversations and AI-generated explanations.
+
+- Context-aware conversations with streamed AI responses.
+- User authentication and persistent chat history.
+- Response regeneration and feedback controls.
+- Interactive quizzes and AI-generated flashcards.
+- Specialized chat modes and syntax-highlighted code presentation.
+
+`React` `Vite` `JavaScript` `Tailwind CSS` `Framer Motion` `Python` `Flask` `Turso` `Groq API` `OpenRouter API`
+
+[Live Demo ↗](https://yozen.vercel.app)
+
+**03. LIGHT — Cross-Platform AI Voice Assistant**
+
+A desktop voice assistant exploring natural-language interaction and voice-driven computer control across macOS and Windows.
+
+- Voice input and speech transcription using Whisper.
+- LLM-powered task planning and tool execution.
+- Voice-driven application launching and closing.
+- Website navigation, web searches, and supported desktop actions.
+- Desktop interface built around real-time voice interaction.
+
+`React` `TypeScript` `Rust` `Tauri` `Python` `Whisper` `Groq API` `Vite`
+
+*Currently in development.*
 
 ---
 
-### 03. LIGHT — AI Voice Assistant
+### Technical Toolkit
 
-**Desktop application · In development**
-
-LIGHT is an ongoing exploration of voice-driven desktop interaction. The goal is to create an assistant that can understand natural voice commands and perform practical computer actions.
-
-The project explores the underlying pipeline required for voice interaction, from capturing audio and transcribing speech to interpreting commands and triggering desktop actions.
-
-**Areas of exploration**
-- Audio capture and processing.
-- Speech-to-text transcription.
-- Voice command interpretation.
-- Desktop application interaction.
-- Practical computer automation.
-
-**Technology and focus**
-
-`Python` `Voice Interaction` `Speech Transcription` `Desktop Automation`
-
----
-
-## Technical Skills
-
-My development interests span frontend interfaces, backend services, databases, and AI-powered applications.
-
-| Category | Technologies |
+| Area | Technologies |
 |---|---|
-| Languages | Python, TypeScript, JavaScript, SQL |
-| Frontend | Next.js, React, HTML, CSS |
-| Backend | FastAPI, Flask, SQLAlchemy |
-| Database | PostgreSQL |
-| Tools & Platforms | Git, GitHub, Vercel |
+| Languages | Python, JavaScript, TypeScript, C, SQL |
+| Frontend | React, Next.js, HTML5, CSS3, Tailwind CSS |
+| Backend | FastAPI, Flask, REST APIs, WebSockets |
+| Databases | PostgreSQL, SQLite, SQLAlchemy, Turso |
+| Tools & Platforms | Git, GitHub, Vercel, Railway, Neon |
+| AI & Desktop | Groq API, OpenRouter, Whisper, Tauri, Rust |
 
 ---
 
-## Education
+### Connect
 
-**GITAM Deemed to be University**
+[Portfolio](https://subashboina.vercel.app) · [LinkedIn](https://www.linkedin.com/in/subhash-b-082565289/) · [Email](mailto:subhashsubbu8374@gmail.com)
 
-Master of Computer Applications (MCA)
-
-Visakhapatnam, Andhra Pradesh, India
-
----
-
-## Areas of Interest
-
-- Full-stack application development and software engineering.
-- Backend architecture, API development, and database design.
-- AI-powered applications and intelligent systems.
-- Voice interfaces and desktop automation.
-- Clean, accessible, and consistent user experiences.
-- Building practical products through experimentation and continuous improvement.
-
----
-
-## Let's Connect
-
-I'm always interested in connecting with developers, learning from people building meaningful products, and exploring opportunities to contribute to software development teams.
-
-- **Portfolio:** [subashboina.vercel.app](https://subashboina.vercel.app)
-- **LinkedIn:** [Subhash Boina](https://www.linkedin.com/in/subhash-b-082565289/)
-- **Résumé:** [View Résumé ↗](https://subashboina.vercel.app/assets/subashresume.pdf)
-- **Email:** [subhashsubbu8374@gmail.com](mailto:subhashsubbu8374@gmail.com)
-
----
-
-<p align="center">
-  <sub>Building with curiosity. Learning through practice. Creating software with purpose.</sub>
-</p>
