@@ -202,19 +202,6 @@ May 2026 – June 2026
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lethalstack&show_icons=true&theme=transparent&hide_border=true&title_color=94A3B8&icon_color=8B5CF6&text_color=94A3B8&rank_icon=github" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethalstack&layout=compact&theme=transparent&hide_border=true&title_color=94A3B8&text_color=94A3B8" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=lethalstack&theme=transparent&hide_border=true&ring=8B5CF6&fire=64748B&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=64748B" alt="GitHub Contribution Streak" />
-</p>
-
----
-
 # Current Focus
 
 **Learning**
