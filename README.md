@@ -72,8 +72,4 @@ That's what keeps me building.
 
 ---
 
-<p align="left">
-  <a href="https://subashboina.vercel.app">PORTFOLIO</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/subhash-b-082565289/">LINKEDIN</a> &nbsp;·&nbsp;
-  <a href="mailto:subhashsubbu8374@gmail.com">EMAIL</a>
-</p>
+[Portfolio ↗](https://subashboina.vercel.app) &nbsp;·&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) &nbsp;·&nbsp; [Email ↗](mailto:subhashsubbu8374@gmail.com)
