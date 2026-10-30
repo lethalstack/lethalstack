@@ -83,12 +83,13 @@ Exploring how natural language can become a practical way to interact with a com
 
 ---
 
+
+---
+
 <div align="center">
 
-### BUILD · UNDERSTAND · IMPROVE
+[Portfolio ↗](https://subashboina.vercel.app) &nbsp;·&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) &nbsp;·&nbsp; [Email ↗](mailto:subhashsubbu8374@gmail.com)
 
-Always learning. Always building.
-
-[Portfolio ↗](https://subashboina.vercel.app) · [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) · [Email ↗](mailto:subhashsubbu8374@gmail.com)
+<sub>Designed with curiosity. Built with purpose.</sub>
 
 </div>
