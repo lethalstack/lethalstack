@@ -3,15 +3,15 @@
 
 <div align="center">
 
-### ASPIRING SOFTWARE DEVELOPER | PYTHON & FULL-STACK WEB DEVELOPMENT
+### SOFTWARE ENGINEERING · FULL-STACK DEVELOPMENT · AI
 
 **I build software beyond the interface.**
 
-From real-time applications to AI-powered tools, I enjoy building across the stack and understanding the systems that make products work.
+<p>Building full-stack products. Exploring intelligent systems.</p>
 
 MCA · GITAM University · Visakhapatnam
 
-[Portfolio ↗](https://subashboina.vercel.app) · [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) · [Email ↗](mailto:subhashsubbu8374@gmail.com)
+**→ [Portfolio](https://subashboina.vercel.app)** — the full story, designed properly.
 
 </div>
 
@@ -28,7 +28,7 @@ A full-stack messaging application focused on private conversations and real-tim
 
 `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `WebSockets`
 
-[Live ↗](https://nomizen.vercel.app)
+[→ Live Application](https://nomizen.vercel.app)
 
 ---
 
@@ -39,7 +39,7 @@ An AI-powered learning application built around contextual conversations, stream
 
 `React` `JavaScript` `Flask` `Turso` `Groq API` `OpenRouter`
 
-[Live ↗](https://yozen.vercel.app)
+[→ Live Application](https://yozen.vercel.app)
 
 ---
 
@@ -56,12 +56,10 @@ Exploring how natural language can become a practical way to interact with a com
 
 ### 02 — Engineering Interests
 
-| Area | What interests me |
-|:--|:--|
-| **Full-stack systems** | Application architecture, APIs, and data flow |
-| **Real-time applications** | WebSockets, messaging, and live interaction |
-| **AI applications** | LLM integration, contextual systems, and automation |
-| **Desktop engineering** | Voice interfaces and native application control |
+- **Full-stack systems** — application architecture, APIs, and data flow.
+- **Real-time applications** — WebSockets, messaging, and live interaction.
+- **AI applications** — LLM integration, contextual systems, and automation.
+- **Desktop engineering** — voice interfaces and native application control.
 
 ---
 
@@ -90,8 +88,6 @@ Exploring how natural language can become a practical way to interact with a com
 
 *Always learning. Always building.*
 
-[Portfolio ↗](https://subashboina.vercel.app) &nbsp;·&nbsp;
-[Linkdin ↗](https://www.linkedin.com/in/subhash-b-082565289/) &nbsp;·&nbsp;
-[Email ↗](mailto:subhashsubbu8374@gmail.com)
+[Portfolio](https://subashboina.vercel.app) · [LinkedIn](https://www.linkedin.com/in/subhash-b-082565289/) · [Email](mailto:subhashsubbu8374@gmail.com)
 
 </div>
