@@ -12,7 +12,7 @@ Interested in the systems behind meaningful software.
 
 MCA · GITAM University · Visakhapatnam
 
-**→ [Portfolio ↗️](https://subashboina.vercel.app)** — the full story, designed properly.
+**→ [Portfolio ↗](https://subashboina.vercel.app)** — the full story, designed properly.
 
 </div>
 
@@ -29,7 +29,7 @@ A full-stack messaging application focused on private conversations and real-tim
 
 `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `WebSockets`
 
-[→ Live ↗️](https://nomizen.vercel.app)
+[→ Live ↗](https://nomizen.vercel.app)
 
 ---
 
@@ -40,7 +40,7 @@ An AI-powered learning application built around contextual conversations, stream
 
 `React` `JavaScript` `Flask` `Turso` `Groq API` `OpenRouter`
 
-[→ Live ↗️](https://yozen.vercel.app)
+[→ Live ↗](https://yozen.vercel.app)
 
 ---
 
@@ -89,6 +89,6 @@ Exploring how natural language can become a practical way to interact with a com
 
 Always learning. Always building.
 
-[Portfolio ↗️](https://subashboina.vercel.app) · [LinkedIn ↗️](https://www.linkedin.com/in/subhash-b-082565289/) · [Email ↗️](mailto:subhashsubbu8374@gmail.com)
+[Portfolio ↗](https://subashboina.vercel.app) · [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) · [Email ↗](mailto:subhashsubbu8374@gmail.com)
 
 </div>
