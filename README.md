@@ -1,75 +1,97 @@
-![Subash Boina — Developer](./subhash-code-header-animation.gif)
 
-<h3 align="left">I build things that work beyond the interface.</h3>
+![Subash Boina](./subhash-code-header-animation.gif)
 
-Aspiring Software Developer | Python & Full-Stack Web Development
+<div align="center">
 
-I'm Subash — an MCA student at GITAM University, exploring software engineering through the things I build.
+### SOFTWARE ENGINEERING · FULL-STACK DEVELOPMENT · AI
 
-I enjoy working across the stack: designing interfaces, building backend systems, connecting APIs, and understanding how everything fits together. I'm especially interested in the engineering behind products — architecture, data flow, real-time systems, and intelligent applications.
+**I build software beyond the interface.**
 
-Currently looking for software development internships and entry-level opportunities.
+From real-time applications to AI-powered tools, I enjoy building across the stack and understanding the systems that make products work.
 
-[Portfolio ↗](https://subashboina.vercel.app) &nbsp;·&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) &nbsp;·&nbsp; [Email ↗](mailto:subhashsubbu8374@gmail.com)
+MCA · GITAM University · Visakhapatnam
+
+[Portfolio](https://subashboina.vercel.app) · [LinkedIn](https://www.linkedin.com/in/subhash-b-082565289/) · [Email](mailto:subhashsubbu8374@gmail.com)
+
+</div>
 
 ---
 
-### 01 / Selected Work
+### 01 — Selected Work
 
-A few things I've been building.
+*Things I've designed, developed, and experimented with.*
 
-**NOMI** — Real-time messaging
+#### NOMI
+**Real-time communication, built from the ground up.**
 
-A full-stack messaging application built around private conversations and real-time communication. Includes authentication, WebSocket messaging, presence, typing indicators, read receipts, and persistent chat history.
+A full-stack messaging application focused on private conversations and real-time interaction. Built with a dedicated backend, persistent storage, and a modern web interface.
 
 `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `WebSockets`
 
-[Explore live ↗](https://nomizen.vercel.app)
+[Live application ↗](https://nomizen.vercel.app)
 
 ---
 
-**YO** — Your Own AI
+#### YO
+**Your Own AI · An interactive study assistant.**
 
-An AI-powered study assistant built for contextual learning. Features streamed conversations, persistent chat history, specialized chat modes, interactive quizzes, and AI-generated flashcards.
+An AI-powered learning application built around contextual conversations, streamed responses, and interactive study tools. Includes persistent chat history, quizzes, flashcards, and specialized chat modes.
 
 `React` `JavaScript` `Flask` `Turso` `Groq API` `OpenRouter`
 
-[Explore live ↗](https://yozen.vercel.app)
+[Live application ↗](https://yozen.vercel.app)
 
 ---
 
-**LIGHT** — AI desktop voice assistant
+#### LIGHT
+**A voice-first desktop assistant.**
 
-A cross-platform desktop assistant exploring voice-driven interaction and computer control. Combines speech transcription, LLM-powered task planning, and desktop actions through a native application.
+Exploring how natural language can become a practical way to interact with a computer. Combines speech transcription, LLM-powered task planning, and desktop actions in a cross-platform application.
 
 `React` `TypeScript` `Rust` `Tauri` `Whisper` `Groq API`
 
-*In development.*
+*Currently in development.*
 
 ---
 
-### 02 / Technical Stack
+### 02 — Engineering Interests
+
+| Area | What interests me |
+|:--|:--|
+| **Full-stack systems** | Application architecture, APIs, and data flow |
+| **Real-time applications** | WebSockets, messaging, and live interaction |
+| **AI applications** | LLM integration, contextual systems, and automation |
+| **Desktop engineering** | Voice interfaces and native application control |
+
+---
+
+### 03 — Technical Toolkit
 
 **Languages**  
-Python · JavaScript · TypeScript · C · SQL
+`Python` `JavaScript` `TypeScript` `C` `SQL`
 
 **Frontend**  
-React · Next.js · HTML · CSS · Tailwind CSS · Framer Motion
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS` `Framer Motion`
 
-**Backend & Data**  
-FastAPI · Flask · REST APIs · WebSockets · PostgreSQL · SQLite · SQLAlchemy · Turso
+**Backend & Databases**  
+`FastAPI` `Flask` `REST APIs` `WebSockets` `PostgreSQL` `SQLite` `SQLAlchemy` `Turso`
 
-**Tools & AI**  
-Git · GitHub · Vercel · Railway · Neon · Groq · OpenRouter · Whisper · Tauri · Rust
+**Tools & Platforms**  
+`Git` `GitHub` `Vercel` `Railway` `Neon` `Tauri` `Rust`
 
----
-
-### 03 / A little about how I work
-
-I don't want to just make things look functional. I want to understand how they work, why they're built that way, and how to make them better.
-
-That's what keeps me building.
+**AI & Speech**  
+`Groq` `OpenRouter` `Whisper`
 
 ---
 
-[Portfolio ↗](https://subashboina.vercel.app) &nbsp;·&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) &nbsp;·&nbsp; [Email ↗](mailto:subhashsubbu8374@gmail.com)
+<div align="center">
+
+### BUILD · UNDERSTAND · IMPROVE
+
+*Always learning. Always building.*
+
+[PORTFOLIO](https://subashboina.vercel.app) &nbsp;·&nbsp;
+[LINKEDIN](https://www.linkedin.com/in/subhash-b-082565289/) &nbsp;·&nbsp;
+[GET IN TOUCH](mailto:subhashsubbu8374@gmail.com)
+
+</div>
