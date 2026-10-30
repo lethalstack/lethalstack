@@ -11,7 +11,7 @@ From real-time applications to AI-powered tools, I enjoy building across the sta
 
 MCA · GITAM University · Visakhapatnam
 
-[Portfolio](https://subashboina.vercel.app) · [LinkedIn](https://www.linkedin.com/in/subhash-b-082565289/) · [Email](mailto:subhashsubbu8374@gmail.com)
+[Portfolio ↗](https://subashboina.vercel.app) · [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) · [Email ↗](mailto:subhashsubbu8374@gmail.com)
 
 </div>
 
@@ -90,8 +90,8 @@ Exploring how natural language can become a practical way to interact with a com
 
 *Always learning. Always building.*
 
-[PORTFOLIO](https://subashboina.vercel.app) &nbsp;·&nbsp;
-[LINKEDIN](https://www.linkedin.com/in/subhash-b-082565289/) &nbsp;·&nbsp;
-[GET IN TOUCH](mailto:subhashsubbu8374@gmail.com)
+[portfolio ↗](https://subashboina.vercel.app) &nbsp;·&nbsp;
+[linkdin ↗](https://www.linkedin.com/in/subhash-b-082565289/) &nbsp;·&nbsp;
+[get in touch ↗](mailto:subhashsubbu8374@gmail.com)
 
 </div>
