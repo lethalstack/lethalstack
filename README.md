@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### SOFTWARE ENGINEERING · FULL-STACK DEVELOPMENT · AI
+### ASPIRING SOFTWARE DEVELOPER | PYTHON & FULL-STACK WEB DEVELOPMENT
 
 **I build software beyond the interface.**
 
@@ -28,7 +28,7 @@ A full-stack messaging application focused on private conversations and real-tim
 
 `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `WebSockets`
 
-[Live application ↗](https://nomizen.vercel.app)
+[Live ↗](https://nomizen.vercel.app)
 
 ---
 
@@ -39,7 +39,7 @@ An AI-powered learning application built around contextual conversations, stream
 
 `React` `JavaScript` `Flask` `Turso` `Groq API` `OpenRouter`
 
-[Live application ↗](https://yozen.vercel.app)
+[Live ↗](https://yozen.vercel.app)
 
 ---
 
@@ -90,8 +90,8 @@ Exploring how natural language can become a practical way to interact with a com
 
 *Always learning. Always building.*
 
-[portfolio ↗](https://subashboina.vercel.app) &nbsp;·&nbsp;
-[linkdin ↗](https://www.linkedin.com/in/subhash-b-082565289/) &nbsp;·&nbsp;
-[get in touch ↗](mailto:subhashsubbu8374@gmail.com)
+[Portfolio ↗](https://subashboina.vercel.app) &nbsp;·&nbsp;
+[Linkdin ↗](https://www.linkedin.com/in/subhash-b-082565289/) &nbsp;·&nbsp;
+[Email ↗](mailto:subhashsubbu8374@gmail.com)
 
 </div>
