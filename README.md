@@ -1,81 +1,79 @@
+![Subash Boina — Developer](./subhash-code-header-animation.gif)
 
-![Developer Header](./subhash-code-header-animation.gif)
+<h3 align="left">I build things that work beyond the interface.</h3>
 
-### Aspiring Software Developer
-**Python · Full-Stack Development · AI Systems**
+Python · Full-Stack Engineering · AI Systems
 
-I'm an MCA student at **GITAM University, Visakhapatnam**, interested in software engineering, full-stack development, and building practical AI-powered applications.
+I'm Subash — an MCA student at GITAM University, exploring software engineering through the things I build.
 
-I work primarily with Python and modern web technologies, developing applications across frontend interfaces, backend services, APIs, and databases. Through personal projects and internships in Python programming and full-stack web development, I've gained practical experience in application development, API integration, database management, and problem-solving.
+I enjoy working across the stack: designing interfaces, building backend systems, connecting APIs, and understanding how everything fits together. I'm especially interested in the engineering behind products — architecture, data flow, real-time systems, and intelligent applications.
 
-I'm particularly interested in understanding how software works beyond the interface — from application architecture and data flow to real-time communication and system reliability.
+Currently looking for software development internships and entry-level opportunities.
 
-**Currently open to software development internships and entry-level opportunities.**
-
-[Portfolio ↗](https://subashboina.vercel.app) · [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) · [Email ↗](mailto:subhashsubbu8374@gmail.com)
+[Portfolio ↗](https://subashboina.vercel.app) &nbsp;·&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) &nbsp;·&nbsp; [Email ↗](mailto:subhashsubbu8374@gmail.com)
 
 ---
 
-### Selected Projects
+### 01 / Selected Work
 
-**01. NOMI — Real-Time Messaging Application**
+A few things I've been building.
 
-A full-stack messaging application built to provide private, real-time communication between users. The application combines a modern web frontend with a dedicated Python backend and PostgreSQL database.
+**NOMI** — Real-time messaging
 
-- User authentication and private one-to-one conversations.
-- Real-time messaging using WebSockets.
-- Online presence, typing indicators, and read receipts.
-- Persistent message history and conversation updates.
-- Responsive interface with profile and chat customization.
+A full-stack messaging application built around private conversations and real-time communication. Includes authentication, WebSocket messaging, presence, typing indicators, read receipts, and persistent chat history.
 
-`Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `PostgreSQL` `SQLAlchemy` `WebSockets`
+`Next.js` `TypeScript` `FastAPI` `PostgreSQL` `WebSockets`
 
-[Live Demo ↗](https://nomizen.vercel.app) · Account required
-
-**02. YO — Your Own AI**
-
-An AI-powered study assistant designed to make learning more interactive through contextual conversations and AI-generated explanations.
-
-- Context-aware conversations with streamed AI responses.
-- User authentication and persistent chat history.
-- Response regeneration and feedback controls.
-- Interactive quizzes and AI-generated flashcards.
-- Specialized chat modes and syntax-highlighted code presentation.
-
-`React` `Vite` `JavaScript` `Tailwind CSS` `Framer Motion` `Python` `Flask` `Turso` `Groq API` `OpenRouter API`
-
-[Live Demo ↗](https://yozen.vercel.app)
-
-**03. LIGHT — Cross-Platform AI Voice Assistant**
-
-A desktop voice assistant exploring natural-language interaction and voice-driven computer control across macOS and Windows.
-
-- Voice input and speech transcription using Whisper.
-- LLM-powered task planning and tool execution.
-- Voice-driven application launching and closing.
-- Website navigation, web searches, and supported desktop actions.
-- Desktop interface built around real-time voice interaction.
-
-`React` `TypeScript` `Rust` `Tauri` `Python` `Whisper` `Groq API` `Vite`
-
-*Currently in development.*
+[Explore live ↗](https://nomizen.vercel.app)
 
 ---
 
-### Technical Toolkit
+**YO** — Your Own AI
 
-| Area | Technologies |
-|---|---|
-| Languages | Python, JavaScript, TypeScript, C, SQL |
-| Frontend | React, Next.js, HTML5, CSS3, Tailwind CSS |
-| Backend | FastAPI, Flask, REST APIs, WebSockets |
-| Databases | PostgreSQL, SQLite, SQLAlchemy, Turso |
-| Tools & Platforms | Git, GitHub, Vercel, Railway, Neon |
-| AI & Desktop | Groq API, OpenRouter, Whisper, Tauri, Rust |
+An AI-powered study assistant built for contextual learning. Features streamed conversations, persistent chat history, specialized chat modes, interactive quizzes, and AI-generated flashcards.
+
+`React` `JavaScript` `Flask` `Turso` `Groq API` `OpenRouter`
+
+[Explore live ↗](https://yozen.vercel.app)
 
 ---
 
-### Connect
+**LIGHT** — AI desktop voice assistant
 
-[Portfolio ↗](https://subashboina.vercel.app) · [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) · [Email ↗](mailto:subhashsubbu8374@gmail.com) · 
+A cross-platform desktop assistant exploring voice-driven interaction and computer control. Combines speech transcription, LLM-powered task planning, and desktop actions through a native application.
 
+`React` `TypeScript` `Rust` `Tauri` `Whisper` `Groq API`
+
+*In development.*
+
+---
+
+### 02 / Technical Stack
+
+**Languages**  
+Python · JavaScript · TypeScript · C · SQL
+
+**Frontend**  
+React · Next.js · HTML · CSS · Tailwind CSS · Framer Motion
+
+**Backend & Data**  
+FastAPI · Flask · REST APIs · WebSockets · PostgreSQL · SQLite · SQLAlchemy · Turso
+
+**Tools & AI**  
+Git · GitHub · Vercel · Railway · Neon · Groq · OpenRouter · Whisper · Tauri · Rust
+
+---
+
+### 03 / A little about how I work
+
+I don't want to just make things look functional. I want to understand how they work, why they're built that way, and how to make them better.
+
+That's what keeps me building.
+
+---
+
+<p align="left">
+  <a href="https://subashboina.vercel.app">PORTFOLIO</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/subhash-b-082565289/">LINKEDIN</a> &nbsp;·&nbsp;
+  <a href="mailto:subhashsubbu8374@gmail.com">EMAIL</a>
+</p>
