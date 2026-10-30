@@ -7,7 +7,8 @@
 
 **I build software beyond the interface.**
 
-<p>Building full-stack products. Exploring intelligent systems.</p>
+Interested in the systems behind meaningful software.
+
 
 MCA · GITAM University · Visakhapatnam
 
@@ -19,7 +20,7 @@ MCA · GITAM University · Visakhapatnam
 
 ### 01 — Selected Work
 
-*Things I've designed, developed, and experimented with.*
+Things I've designed, developed, and experimented with.
 
 #### NOMI
 **Real-time communication, built from the ground up.**
@@ -54,7 +55,7 @@ Exploring how natural language can become a practical way to interact with a com
 
 ---
 
-### 02 — Engineering Interests
+### 02 — Areas of Exploration
 
 - **Full-stack systems** — application architecture, APIs, and data flow.
 - **Real-time applications** — WebSockets, messaging, and live interaction.
@@ -86,7 +87,7 @@ Exploring how natural language can become a practical way to interact with a com
 
 ### BUILD · UNDERSTAND · IMPROVE
 
-*Always learning. Always building.*
+Always learning. Always building.
 
 [Portfolio](https://subashboina.vercel.app) · [LinkedIn](https://www.linkedin.com/in/subhash-b-082565289/) · [Email](mailto:subhashsubbu8374@gmail.com)
 
