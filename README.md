@@ -46,4 +46,4 @@ A desktop voice assistant in development, exploring natural voice interaction an
 
 ## Connect
 
-[Portfolio ↗](https://subashboina.vercel.app) · [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) · [Résumé ↗](https://subashboina.vercel.app/assets/subashresume.pdf) · [Email](mailto:subhashsubbu8374@gmail.com)
+[Portfolio ↗](https://subashboina.vercel.app) · [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) · [Résumé ↗](https://subashboina.vercel.app/assets/subashresume.pdf) · [Email ↗](mailto:subhashsubbu8374@gmail.com)
