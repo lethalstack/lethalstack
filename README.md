@@ -77,5 +77,5 @@ A desktop voice assistant exploring natural-language interaction and voice-drive
 
 ### Connect
 
-[Portfolio](https://subashboina.vercel.app) · [LinkedIn](https://www.linkedin.com/in/subhash-b-082565289/) · [Email](mailto:subhashsubbu8374@gmail.com)
+[Portfolio ↗](https://subashboina.vercel.app) · [LinkedIn ↗](https://www.linkedin.com/in/subhash-b-082565289/) · [Email ↗](mailto:subhashsubbu8374@gmail.com) · 
 
