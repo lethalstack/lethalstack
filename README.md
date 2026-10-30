@@ -2,7 +2,7 @@
 
 <h3 align="left">I build things that work beyond the interface.</h3>
 
-Python · Full-Stack Engineering · AI Systems
+Aspiring Software Developer | Python & Full-Stack Web Development
 
 I'm Subash — an MCA student at GITAM University, exploring software engineering through the things I build.
 
