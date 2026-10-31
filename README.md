@@ -126,9 +126,11 @@ An AI-powered study companion designed for conversational learning, chat interac
 
 ---
 
-### LIGHT — AI Voice Assistant for macOS
+### LIGHT — Cross-Platform AI Voice Assistant
 
-A desktop AI assistant exploring natural voice interaction and native computer assistance.
+A desktop AI assistant designed to understand natural voice commands, interact with your operating system, and automate everyday tasks.
+
+From launching and closing applications to playing music and sending messages, LIGHT aims to make computer interaction more natural through AI-powered conversations and native system control.
 
 `Tauri 2` · `React` · `TypeScript` · `Rust`
 
