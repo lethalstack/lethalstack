@@ -13,13 +13,7 @@
 <!-- ==================== SOCIAL LINKS ==================== -->
 
 <p align="center">
-  <a href="https://subashboina.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-181818?style=for-the-badge" alt="Portfolio">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/subhash-b-082565289/">
-    <img src="https://img.shields.io/badge/LINKEDIN-181818?style=for-the-badge" alt="LinkedIn">
-  </a>
+  <a href="https://subashboina.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-181818?style=for-the-badge" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/subhash-b-082565289/"><img src="https://img.shields.io/badge/LINKEDIN-181818?style=for-the-badge" alt="LinkedIn" /></a>
 </p>
 
 <!-- ==================== CHARACTER ==================== -->
