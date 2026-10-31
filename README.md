@@ -7,7 +7,7 @@
 <!-- ==================== TERMINAL ==================== -->
 
 <p align="center">
-  <img src="assets/header.gif?v=2" width="880" alt="Welcome to my terminal" />
+<img src="assets/header.gif?v=3" width="880" alt="Welcome to my terminal" />
 </p>
 
 <!-- ==================== SOCIAL LINKS ==================== -->
