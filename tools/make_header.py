@@ -60,7 +60,7 @@ class Phrase:
         self.x = (xs * PITCH + PITCH / 2).astype(np.float32)
         self.y = (ys * PITCH + PITCH / 2).astype(np.float32)
         c = cov[ys, xs]
-        self.r = (1.15 + 0.95 * np.clip(c, 0, 1)).astype(np.float32)
+        self.r = (0.75 + 0.75 * np.clip(c, 0, 1)).astype(np.float32)
         n = len(xs)
         t = rng.random(n)
         self.col = np.array([[CYAN[k] + (LIGHT[k] - CYAN[k]) * (0.55 * tt ** 3) for k in range(3)] for tt in t], np.float32)
