@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.gif" width="880" alt="Welcome to my terminal"></p>
+<p align="center"><img src="assets/header.gif?v=2" width="880" alt="Welcome to my terminal"></p>
 
 <p align="center"><img src="assets/contributions-log.png" width="880" alt="contributions.log"></p>
 
