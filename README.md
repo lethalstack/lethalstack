@@ -132,9 +132,9 @@ A desktop AI assistant designed to understand natural voice commands, interact w
 
 From launching and closing applications to playing music and sending messages, LIGHT aims to make computer interaction more natural through AI-powered conversations and native system control.
 
-`Tauri 2` · `React` · `TypeScript` · `Rust`
+`Tauri 2` · `React` · `TypeScript` · `Rust` · `Vite` · `Tokio` · `Reqwest` · `Serde` · `CPAL`
 
-*Currently in development.*
+*"Currently in development"*
 
 ---
 
