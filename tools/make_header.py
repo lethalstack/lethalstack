@@ -13,14 +13,14 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 PHRASES = [
-  "WELCOME TO MY TERMINAL.",
-  "HI, I'M SUBHASH.",
-  "SOFTWARE DEVELOPER.",
-  "BUILDING FOR THE WEB.",
-  "FOCUSED ON CLEAN CODE & THOUGHTFUL DESIGN.",
-  "EXPLORING AI & EMERGING TECHNOLOGIES.",
-  "DRIVEN BY CURIOSITY AND CONTINUOUS LEARNING.",
-  "TURNING IDEAS INTO REALITY."
+    "WELCOME TO MY TERMINAL.",
+    "HI, I'M SUBHASH.",
+    "SOFTWARE DEVELOPER.",
+    "FULL-STACK DEVELOPER.",
+    "FRONTEND SPECIALIST.",
+    "BACKEND DEVELOPER.",
+    "ARTIFICIAL INTELLIGENCE ENTHUSIAST.",
+    "AI APPLICATION BUILDER.",
 ]
 
 W, H = 880, 130
@@ -35,7 +35,7 @@ N = 40                       # frames in a transition
 OUT_FR = 28                  # frames a phrase takes to dissolve
 IN_FR = 28                   # frames the next phrase takes to assemble
 IN_START = N - IN_FR         # the next phrase starts forming while the old one dissolves
-FONT = "/usr/share/fonts/truetype/liberation/LiberationMono-Bold.ttf"
+FONT = "/System/Library/Fonts/Menlo.ttc"
 
 
 def smooth(t):
