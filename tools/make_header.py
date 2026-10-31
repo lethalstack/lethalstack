@@ -47,7 +47,7 @@ class Phrase:
     def __init__(self, text, seed):
         rng = np.random.default_rng(seed)
         font = ImageFont.truetype(FONT, 56)
-        font.set_variation_by_axes([800])
+        font.set_variation_by_axes([600])
         m = Image.new("L", (W, H), 0)
         d = ImageDraw.Draw(m)
         tw = d.textlength(text, font=font)
@@ -60,7 +60,7 @@ class Phrase:
         self.x = (xs * PITCH + PITCH / 2).astype(np.float32)
         self.y = (ys * PITCH + PITCH / 2).astype(np.float32)
         c = cov[ys, xs]
-        self.r = (0.75 + 0.75 * np.clip(c, 0, 1)).astype(np.float32)
+        self.r = (0.65 + 0.45 * np.clip(c, 0, 1)).astype(np.float32)
         n = len(xs)
         t = rng.random(n)
         self.col = np.array([[CYAN[k] + (LIGHT[k] - CYAN[k]) * (0.55 * tt ** 3) for k in range(3)] for tt in t], np.float32)
