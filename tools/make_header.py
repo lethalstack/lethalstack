@@ -35,7 +35,7 @@ N = 40                       # frames in a transition
 OUT_FR = 28                  # frames a phrase takes to dissolve
 IN_FR = 28                   # frames the next phrase takes to assemble
 IN_START = N - IN_FR         # the next phrase starts forming while the old one dissolves
-FONT = "/System/Library/Fonts/Menlo.ttc"
+FONT = "assets/fonts/SpaceGrotesk.ttf"
 
 
 def smooth(t):
@@ -46,7 +46,7 @@ def smooth(t):
 class Phrase:
     def __init__(self, text, seed):
         rng = np.random.default_rng(seed)
-        font = ImageFont.truetype(FONT, 56)
+        font = ImageFont.truetype(FONT, 56, index=0)
         m = Image.new("L", (W, H), 0)
         d = ImageDraw.Draw(m)
         tw = d.textlength(text, font=font)
