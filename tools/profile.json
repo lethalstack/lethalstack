@@ -1,0 +1,19 @@
+{
+  "handle_line": "lethalstack@github",
+  "name": "Subhash B.",
+  "role": "Software Developer",
+  "origin": "Visakhapatnam, India",
+  "education": "MCA, GITAM University",
+  "status": "Building & Innovating",
+  "languages": "Python · JS · TS · C · SQL",
+  "frontend": "React · Next.js · Tailwind",
+  "backend": "FastAPI · Flask · WebSockets",
+  "database": "PostgreSQL · SQLite · Turso",
+  "cloud": "Vercel · Railway · Neon",
+  "ai_ml": "Groq · OpenRouter · Whisper",
+  "projects": [["NOMI", "nomizen.vercel.app"], ["YO", "yozen.vercel.app"], ["LIGHT", "Desktop AI operator"]],
+  "email": "subhashsubbu8374@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/subhash-b-082565289/",
+  "instagram": "",
+  "portfolio": "https://subashboina.vercel.app"
+}
