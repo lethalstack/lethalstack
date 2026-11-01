@@ -1,6 +1,5 @@
 name: Update profile assets
 on:
-  schedule: [{cron: "0 3 * * *"}]
   workflow_dispatch:
 permissions:
   contents: write
