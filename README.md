@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087FF5,20:269EFF,40:70C5FF,55:B8E6FF,68:FFFFFF,100:FFFFFF&height=250&section=header&text=Subhash%20Boina&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Application%20Builder%20%7C%20Software%20Developer&descAlignY=59&descSize=18&descColor=244F70" alt="Subhash Boina" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087FF5,20:269EFF,40:70C5FF,55:B8E6FF,68:FFFFFF,100:FFFFFF&height=250&section=header&text=Subash%20Boina&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Application%20Builder%20%7C%20Software%20Developer&descAlignY=59&descSize=18&descColor=244F70" alt="Subhash Boina" />
 
 
 <!-- ==================== TERMINAL ==================== -->
