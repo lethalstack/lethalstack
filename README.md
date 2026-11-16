@@ -130,16 +130,13 @@ An AI-powered study companion designed for conversational learning, chat interac
 
 ---
 
-### LIGHT — Cross-Platform AI Voice Assistant
+### INFLIX — Real-Time Watch Together Platform
 
-A desktop AI assistant designed to understand natural voice commands, interact with your operating system, and automate everyday tasks.
+A real-time watch-together platform designed to bring people together through synchronized video streaming, private rooms, and interactive movie nights.
 
-From launching and closing applications to playing music and sending messages, LIGHT aims to make computer interaction more natural through AI-powered conversations and native system control.
+`React 19` · `TypeScript` · `Node.js` · `Express.js` · `Socket.IO` · `WebRTC` · `HLS`
 
-`Tauri 2` · `React` · `TypeScript` · `Rust`
-`Tauri 2` · `React` · `TypeScript` · `Rust` · `Vite` · `Tokio` · `Reqwest` · `Serde` · `CPAL`
-
-*"Currently in development"*
+[Live ↗](https://inflixzen.vercel.app)
 
 ---
 
