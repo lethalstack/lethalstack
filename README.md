@@ -59,7 +59,7 @@ Always exploring, building, and learning.
   <img src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-222222?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C-222222?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C-222222?style=flat-square&logo=c&logoColor=A8B9CC" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-222222?style=flat-square&logoColor=FFFFFF" alt="SQL" />
 </p>
 
