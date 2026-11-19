@@ -153,8 +153,11 @@ A real-time watch-together platform designed to bring people together through sy
 </p>
 
 <p align="center">
-  <sub>BUILDING THINGS. BREAKING THINGS. LEARNING EVERY DAY.</sub>
+  <sub>I BUILD THINGS. I BREAK THINGS. I FIGURE IT OUT.</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087FF5,20:269EFF,40:70C5FF,55:B8E6FF,68:FFFFFF,100:FFFFFF&height=150&section=footer" alt="Blue and white footer" />
-
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:087FF5,20:269EFF,40:70C5FF,55:B8E6FF,68:FFFFFF,100:FFFFFF&height=150&section=footer&text=TOO%20MANY%20IDEAS.%20NOT%20ENOUGH%20TABS.&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=72"
+  alt="Too many ideas. Not enough tabs."
+/>
