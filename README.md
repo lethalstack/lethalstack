@@ -115,7 +115,7 @@ A full-stack messaging platform built around real-time communication and a smoot
 
 `React` · `JavaScript` · `Python` · `Flask` · `WebSockets`
 
-[![LIVE DEMO](https://img.shields.io/badge/✦_LIVE_DEMO-EXPLORE-FFFFFF?style=for-the-badge&labelColor=00BFFF)](https://nomizen.vercel.app)
+[![LIVE DEMO](https://img.shields.io/badge/✦_LIVE_-EXPLORE-FFFFFF?style=for-the-badge&labelColor=00BFFF)](https://nomizen.vercel.app)
 
 
 ### YO — AI Study Assistant
@@ -124,7 +124,7 @@ An AI-powered study companion designed for conversational learning, chat interac
 
 `React` · `JavaScript` · `Python` · `Flask` · `AI Integration`
 
-[![LIVE DEMO](https://img.shields.io/badge/✦_LIVE_DEMO-EXPLORE-FFFFFF?style=for-the-badge&labelColor=00BFFF)](https://yozen.vercel.app)
+[![LIVE DEMO](https://img.shields.io/badge/✦_LIVE_-EXPLORE-FFFFFF?style=for-the-badge&labelColor=00BFFF)](https://yozen.vercel.app)
 
 
 ### INFLIX — Real-Time Watch Together Platform
@@ -133,7 +133,7 @@ A real-time watch-together platform designed to bring people together through sy
 
 `React 19` · `TypeScript` · `Node.js` · `Express.js` · `Socket.IO` · `WebRTC` · `HLS`
 
-[![LIVE DEMO](https://img.shields.io/badge/✦_LIVE_DEMO-EXPLORE-FFFFFF?style=for-the-badge&labelColor=00BFFF)](https://inflixzen.vercel.app)
+[![LIVE DEMO](https://img.shields.io/badge/✦_LIVE_-EXPLORE-FFFFFF?style=for-the-badge&labelColor=00BFFF)](https://inflixzen.vercel.app)
 
 
 <h2 align="center">LET'S CONNECT.</h2>
