@@ -37,7 +37,7 @@
   <img src="assets/snake.svg" width="880" alt="GitHub contribution snake animation" />
 </p>
 
----
+
 
 ## About Me
 
@@ -49,7 +49,8 @@ I actively explore AI-powered tools and workflows to make development more effic
 
 Always exploring, building, and learning.
 
----
+
+
 
 ## Tech Stack
 
@@ -106,8 +107,6 @@ Always exploring, building, and learning.
 </p>
 
 
----
-
 ## Featured Projects
 
 ### NOMI — Real-Time Messaging Platform
@@ -118,7 +117,6 @@ A full-stack messaging platform built around real-time communication and a smoot
 
 [![LIVE DEMO](https://img.shields.io/badge/✦_LIVE_DEMO-EXPLORE-FFFFFF?style=for-the-badge&labelColor=00BFFF)](https://nomizen.vercel.app)
 
----
 
 ### YO — AI Study Assistant
 
@@ -128,7 +126,6 @@ An AI-powered study companion designed for conversational learning, chat interac
 
 [![LIVE DEMO](https://img.shields.io/badge/✦_LIVE_DEMO-EXPLORE-FFFFFF?style=for-the-badge&labelColor=00BFFF)](https://yozen.vercel.app)
 
----
 
 ### INFLIX — Real-Time Watch Together Platform
 
@@ -138,11 +135,6 @@ A real-time watch-together platform designed to bring people together through sy
 
 [![LIVE DEMO](https://img.shields.io/badge/✦_LIVE_DEMO-EXPLORE-FFFFFF?style=for-the-badge&labelColor=00BFFF)](https://inflixzen.vercel.app)
 
----
-
-<!-- ==================== CONNECT ==================== -->
-
-<hr/>
 
 <h2 align="center">LET'S CONNECT.</h2>
 
@@ -163,10 +155,6 @@ A real-time watch-together platform designed to bring people together through sy
 <p align="center">
   <sub>BUILDING THINGS. BREAKING THINGS. LEARNING EVERY DAY.</sub>
 </p>
-
-<hr/>
-
-<!-- ==================== FOOTER ==================== -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087FF5,20:269EFF,40:70C5FF,55:B8E6FF,68:FFFFFF,100:FFFFFF&height=150&section=footer" alt="Blue and white footer" />
 
