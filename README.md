@@ -12,7 +12,7 @@
 <!-- ==================== SOCIAL LINKS ==================== -->
 
 <p align="center">
-  <a href="https://subashboina.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-181818?style=for-the-badge" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/subhash-b-082565289/"><img src="https://img.shields.io/badge/LINKEDIN-181818?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://subashboina.vercel.app"><img src="https://img.shields.io/badge/✦_PORTFOLIO-VISIT-FFFFFF?style=for-the-badge&labelColor=252525" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/subhash-b-082565289/"><img src="https://img.shields.io/badge/➜_LINKEDIN-CONNECT-FFFFFF?style=for-the-badge&labelColor=252525" alt="LinkedIn" /></a>
 </p>
 
 
@@ -116,7 +116,7 @@ A full-stack messaging platform built around real-time communication and a smoot
 
 `React` · `JavaScript` · `Python` · `Flask` · `WebSockets`
 
-[Live ↗](https://nomizen.vercel.app)
+[![LIVE DEMO](https://img.shields.io/badge/✦_LIVE_DEMO-EXPLORE-FFFFFF?style=for-the-badge&labelColor=00BFFF)](https://nomizen.vercel.app)
 
 ---
 
@@ -126,7 +126,7 @@ An AI-powered study companion designed for conversational learning, chat interac
 
 `React` · `JavaScript` · `Python` · `Flask` · `AI Integration`
 
-[Live ↗](https://yozen.vercel.app)
+[![LIVE DEMO](https://img.shields.io/badge/✦_LIVE_DEMO-EXPLORE-FFFFFF?style=for-the-badge&labelColor=00BFFF)](https://yozen.vercel.app)
 
 ---
 
@@ -136,28 +136,35 @@ A real-time watch-together platform designed to bring people together through sy
 
 `React 19` · `TypeScript` · `Node.js` · `Express.js` · `Socket.IO` · `WebRTC` · `HLS`
 
-[Live ↗](https://inflixzen.vercel.app)
+[![LIVE DEMO](https://img.shields.io/badge/✦_LIVE_DEMO-EXPLORE-FFFFFF?style=for-the-badge&labelColor=00BFFF)](https://inflixzen.vercel.app)
 
 ---
 
 <!-- ==================== CONNECT ==================== -->
 
-<h2 align="center">Connect</h2>
+<hr/>
+
+<h2 align="center">LET'S CONNECT.</h2>
 
 <p align="center">
-  <a href="https://subashboina.vercel.app"><strong>PORTFOLIO ↗</strong></a>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/subhash-b-082565289/"><strong>LINKEDIN ↗</strong></a>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="mailto:subhashsubbu8374@gmail.com"><strong>EMAIL ↗</strong></a>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/918247443734"><strong>WHATSAPP ↗</strong></a>
+  <sub>GOOD IDEAS START WITH A CONVERSATION.</sub>
 </p>
-
 
 <p align="center">
-  <sub><i>Building things. Breaking things. Learning every day.</i></sub>
+  <a href="https://subashboina.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-FFFFFF?style=for-the-badge&labelColor=252525" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/subhash-b-082565289/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FFFFFF?style=for-the-badge&labelColor=252525" /></a>
+  &nbsp;
+  <a href="mailto:subhashsubbu8374@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-FFFFFF?style=for-the-badge&labelColor=252525" /></a>
+  &nbsp;
+  <a href="https://wa.me/918247443734"><img src="https://img.shields.io/badge/WHATSAPP-MESSAGE-FFFFFF?style=for-the-badge&labelColor=252525" /></a>
 </p>
+
+<p align="center">
+  <sub>BUILDING THINGS. BREAKING THINGS. LEARNING EVERY DAY.</sub>
+</p>
+
+<hr/>
 
 <!-- ==================== FOOTER ==================== -->
 
